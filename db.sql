@@ -35,7 +35,7 @@ CREATE TABLE film_genre (
 
 INSERT INTO film (film_name, year_release)
 VALUES ('Зелёная миля', 1999),
-       ('Форест Гамп', 1994),
+       ('Форрест Гамп', 1994),
        ('Москва слезам не верит', 1974);
 	   
 INSERT INTO genre (genre_name)
