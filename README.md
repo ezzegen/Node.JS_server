@@ -1,5 +1,5 @@
 # Node.JS_server
-NodeJS server for CRUD interaction with filmDB (PostgreSQL). Step 2, Task 2.
+NodeJS server for CRUD interaction with filmDB (PostgreSQL).
 
 ### Description
 Сервер на Node.JS, который работает с упрощенной базой данных фильмов
